@@ -1,0 +1,16 @@
+Personal Loan Policy
+
+Section 1: Loan Amount
+The minimum personal loan amount is INR 50,000.
+The maximum personal loan amount is INR 25,00,000.
+
+Section 2: Loan Tenure
+The minimum tenure for a personal loan is 12 months.
+The maximum tenure for a personal loan is 60 months.
+
+Section 3: Interest Rate
+Personal loan interest rates range from 10.5% to 18% per annum.
+
+Section 4: Prepayment
+Prepayment is allowed after 6 months from the date of disbursement.
+A prepayment charge of 2% applies on the outstanding principal.
