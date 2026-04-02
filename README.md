@@ -31,6 +31,7 @@ to retrieve relevant clauses and generate precise answers.
 ---
 
 ## Architecture
+User Query → Retriever (ChromaDB) → Context → LLM (Llama 3) → Answer
 
 ### Core Components
 
